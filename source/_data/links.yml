@@ -1,0 +1,25 @@
+- links_category: 
+  has_thumbnail: true
+  list:
+      - name: 燕栖屿
+        link: https://zorua.top/
+        description: 茫茫海屿，有燕而居
+        avatar: https://zorua.top/assets/icon/title-icon.png 
+        thumbnail: https://zorua.top/assets/images/home-background.jpg
+      - name: xzadudu179 - 首页
+        link: https://www.xzadudu179.top/
+        description: 某未白倒向hexo罪魁祸首（不是
+        avatar: https://image.179.life/images/xzadudu179.ico
+        thumbnail: https://image.179.life/images/background-light.jpg
+
+- links_category: 
+  has_thumbnail: false
+  list:
+      - name: 小杰和珩屿的网站
+        link: https://awajie.com/
+        description: 是杰哥的说
+        avatar: https://awajie.com/AwajieLogo.svg
+      - name: RegadPoleの主页
+        link: https://regadpole.top/
+        description: RegadPole的导航站
+        avatar: https://avatars.githubusercontent.com/u/69202360?v=4
